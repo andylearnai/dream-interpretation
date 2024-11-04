@@ -1,0 +1,173 @@
+{
+  "Metadata": {
+    "title": "Free Dream Interpretation AI",
+    "description": "Free AI dream interpretation service - Get instant insights into your dreams using advanced artificial intelligence"
+  },
+  "Hero": {
+    "title": "Free Dream Interpretation AI",
+    "subtitle": "Discover your dream meanings instantly with AI - Free dream interpretation and analysis to understand your subconscious mind.",
+    "button": "Interpret Your Dream",
+    "features": {
+      "instant": {
+        "value": "<1s",
+        "label": "Response"
+      },
+      "accurate": {
+        "value": "AI",
+        "label": "Powered"
+      },
+      "comprehensive": {
+        "value": "1000+",
+        "label": "Symbols"
+      },
+      "global": {
+        "value": "24/7",
+        "label": "Available"
+      }
+    }
+  },
+  "HomeFeatured": {
+    "title": "Professional Dream Interpretation AI",
+    "description": "Our AI Dream Interpretation combines advanced artificial intelligence with traditional dream interpretation methods. Get instant insights into your dreams' meanings through psychological and spiritual analysis, helping you better understand your subconscious mind.",
+    "features": {
+      "traditional": {
+        "title": "AI Dream Analysis",
+        "description": "Advanced AI technology interprets your dreams using comprehensive dream symbol databases and patterns"
+      },
+      "psychological": {
+        "title": "Free Dream Interpretation",
+        "description": "Get instant, free dream interpretations powered by our advanced AI dream analyzer"
+      },
+      "instant": {
+        "title": "Instant Dream Meanings",
+        "description": "Receive immediate dream interpretations with detailed symbolic and psychological insights"
+      },
+      "comprehensive": {
+        "title": "Multiple Interpretation Methods",
+        "description": "Access various dream interpretation approaches including modern, spiritual, and cultural perspectives"
+      }
+    }
+  },
+  "HomeFAQ": {
+    "title": "Dream Interpretation AI Guide",
+    "description": "Learn how to get the most accurate AI dream analysis with our comprehensive guide. Our dream interpretation AI provides detailed insights into your dreams.",
+    "items": {
+      "specific": {
+        "title": "How to Get Detailed Dream Analysis",
+        "content": "For the most accurate AI dream interpretation, include specific details about your dream symbols, emotions, and events. Our advanced dream interpretation AI analyzes every detail to provide comprehensive insights."
+      },
+      "basic": {
+        "title": "Important Information for Dream Analysis",
+        "content": "Include basic information like your age and gender (e.g., '25F' or '30M') for more personalized dream interpretation. Our AI dream analyzer uses this context to provide more accurate dream meanings."
+      },
+      "context": {
+        "title": "Waking Life Context in Dream Analysis",
+        "content": "Share relevant life events or situations that might relate to your dream. Our AI dream Interpretation considers your real-life context to provide more meaningful dream interpretations."
+      },
+      "death": {
+        "title": "Interpreting Dreams About Death",
+        "content": "When sharing dreams about death or spirits, specify if the person is alive or deceased in reality. This helps our AI dream analyzer provide more accurate symbolic interpretations."
+      },
+      "assumptions": {
+        "title": "Objective Dream Description",
+        "content": "Focus on describing what you experienced in your dream without personal interpretations. Let our AI dream interpretation tool analyze the raw dream content for unbiased insights."
+      },
+      "openminded": {
+        "title": "Understanding Dream Symbolism",
+        "content": "Stay open to various interpretations as dreams often contain deep symbolic meanings. Our AI dream Interpretation considers multiple perspectives and cultural symbolisms in its analysis."
+      }
+    },
+    "footer": "Get instant, accurate dream interpretations with our AI dream analyzer available 24/7"
+  },
+  "HomeSocialProof": {
+    "title": "Trusted AI Dream Interpretation Platform",
+    "description": "Join thousands of users who trust our AI dream Interpretation for accurate dream analysis and meaningful insights into their subconscious mind.",
+    "stats": {
+      "users": {
+        "value": "50K+",
+        "label": "Active Dream Analyzers"
+      },
+      "dreams": {
+        "value": "100K+",
+        "label": "Dreams Interpreted"
+      },
+      "accuracy": {
+        "value": "95%",
+        "label": "Interpretation Accuracy"
+      }
+    },
+    "testimonials": {
+      "user1": {
+        "name": "Sarah Johnson",
+        "title": "Regular Dream Analyzer User",
+        "content": "This AI dream interpretation tool is incredible! It helped me understand recurring dream patterns that I've been experiencing for years. The analysis is deep and surprisingly accurate."
+      },
+      "user2": {
+        "name": "Michael Chen",
+        "title": "Psychology Student",
+        "content": "As a psychology student, I'm impressed by how this AI dream Interpretation combines traditional symbol analysis with modern psychological insights. It's a powerful tool for understanding the subconscious."
+      },
+      "user3": {
+        "name": "Emma Williams",
+        "title": "Dream Journal Enthusiast",
+        "content": "The AI dream analyzer has become an essential part of my dream journaling practice. It provides detailed interpretations instantly and helps me track patterns in my dreams over time."
+      }
+    },
+    "footer": "Join our growing community of dream explorers using AI-powered dream interpretation"
+  },
+  "HomeCallToAction": {
+    "title": "Experience Advanced AI Dream Interpretation",
+    "description": "Our AI-powered dream Interpretation provides deep analysis and psychological insights to help you understand the meaning behind your dreams.",
+    "features": {
+      "instant": "Instant Analysis",
+      "accurate": "Precise Interpretation",
+      "ai": "Advanced AI Technology"
+    },
+    "button": "Start Dream Interpretation"
+  },
+  "Footer": {
+    "rights": "All Rights Reserved"
+  },
+  "Header": {
+    "interpret": "Interpret Dream",
+    "language": "Language"
+  },
+  "InterpretPage": {
+    "title": "Analyze Your Dreams - Dream Interpretation AI",
+    "description": "Get professional AI-powered interpretations of your dreams. Understand the hidden meanings and symbols in your dreams with advanced analysis."
+  },
+  "DreamInterpreter": {
+    "title": "Dream Interpretation AI",
+    "subtitle": "Share your dream and receive a detailed interpretation powered by AI",
+    "placeholder": "Describe your dream in detail... (For example: I was flying over a city at night, the lights below were like stars...)",
+    "submit": "Interpret Dream",
+    "error": "Sorry, there was an error interpreting your dream. Please try again.",
+    "tip": "The more details you provide, the better the interpretation will be"
+  },
+  
+    "HowTo": {
+      "title": "How to Get Accurate Dream Interpretation with AI",
+      "description": "Follow these simple steps to receive a detailed AI-powered analysis of your dreams and unlock their hidden meanings.",
+      "steps": {
+        "record": {
+          "title": "Record Your Dream",
+          "description": "Write down your dream immediately after waking while the details are fresh in your memory. Include all emotions, symbols, and events you can remember."
+        },
+        "details": {
+          "title": "Add Context",
+          "description": "Include relevant personal context like age, gender, and current life situations that might relate to your dream symbols."
+        },
+        "analyze": {
+          "title": "AI Analysis",
+          "description": "Our advanced Dream Interpretation AI will analyze your dream using multiple interpretation methods and symbolic meanings."
+        },
+        "reflect": {
+          "title": "Personal Reflection",
+          "description": "Review the AI interpretation and reflect on how it relates to your waking life and personal experiences."
+        }
+      },
+      "footer": "Get started now with your free AI dream interpretation analysis"
+    }
+  
+  
+}
